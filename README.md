@@ -15,7 +15,7 @@ This repository contains a comprehensive project on predicting flight prices usi
 - **🚀 flight_price_deploy.ipynb**: Details the deployment process for the web app.
 
 ## 🌐 Web App
-The web app allows users to upload flight data files and predict prices based on the trained model. It is built using `Flask` and can be run locally or deployed on cloud services.
+The web app allows users to upload flight data files and predict prices based on the trained model. It is built using `Streamlit` and can be run locally or deployed on cloud services.
 
 - **📜 deploy.py**: The main script for deploying the web app.
 - **💡 deploy_help.ipynb**: A guide to deploying the app and troubleshooting common issues.
